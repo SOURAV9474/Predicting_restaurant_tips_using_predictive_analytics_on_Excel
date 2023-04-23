@@ -1,0 +1,2 @@
+# Predicting_restaurant_tips_using_predictive_analytics_on_Excel
+Predicting restaurant tips using predictive analytics on Excel.
